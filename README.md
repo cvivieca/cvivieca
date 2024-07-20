@@ -1,11 +1,15 @@
-### Hi there 👋
+## 👋 Hi there, I'm [Cristopher Vivieca]!
 
-### Cloud Engineer passionate about building scalable and clean code software based on best industry practices for delivering best result.
+I’m an experienced **Senior Software Engineer** passionate about creating innovative solutions with a focus on C# and Python development. 💻 With over 6 years in the field, I’ve led teams and delivered impactful projects across cloud-native environments, using technologies like ASP.NET Core, Python, Amazon Web Services, and more. 🚀
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristopherviviecaramos) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cvivieca) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cvivieca) 
+In addition to my backend development skills, I have extensive experience in designing scalable microservices, using messaging systems like RabbitMQ and Kafka to ensure smooth communication and high-performance integrations. I also specialize in implementing strong IAM solutions with tools such as Keycloak and AWS Cognito, and automating infrastructure deployment using Terraform and Docker. I thrive in dynamic environments where I can innovate and drive technological advancements that support business goals. 🔧
 
-# 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2008000.svg?style=flat&logo=Python&logoColor=white)
+---
+
+### 📫 How to reach me
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/cristopherviviecaramos)
+- Email: [cristopherviviecaramos@outlook.com](mailto:cristopherviviecaramos@outlook.com)
+- Twitter: [@cvivieca](https://twitter.com/cvivieca)
 
 ---
